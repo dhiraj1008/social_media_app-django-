@@ -1,2 +1,3 @@
 # social_media_app-django-
-![Social Media App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.classcentral.com%2Fcourse%2Fyoutube-build-a-social-media-app-with-django-91039&psig=AOvVaw0Z84Ir1k1UHpcJ2SAc9y90&ust=1701691656275000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjQ1Med84IDFQAAAAAdAAAAABAE)
+
+![socialmediaimg](https://github.com/dhiraj1008/social_media_app-django-/assets/94028619/2694e4a0-9db7-4361-a981-b0460948a648)
